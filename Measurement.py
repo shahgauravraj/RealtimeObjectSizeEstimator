@@ -1,5 +1,5 @@
 import cv2
-import utlis
+import Utlis
  
 ###################################
 webcam = True
